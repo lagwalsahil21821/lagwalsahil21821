@@ -44,7 +44,7 @@
   
 <div align=center>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lagwalsahil21821&theme=transparent&rank_icon=github)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lagwalsahil21821&theme=transparent&rank_icon=github)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagwalsahil21821&hide=kotlin&hide_progress=true&theme=transparent)
 
 </div>
