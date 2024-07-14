@@ -42,11 +42,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lagwalsahil21821&theme=transparent&rank_icon=github)](https://git.io/streak-stats)
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagwalsahil21821&show_icons=true&theme=transparent)
-
 <div align=center>
     
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lagwalsahil21821&theme=transparent&rank_icon=github)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagwalsahil21821&hide=kotlin&hide_progress=true&theme=transparent)
 
 </div>
