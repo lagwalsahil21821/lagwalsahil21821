@@ -14,7 +14,6 @@
  
  🌱 I’m currently learning NodeJS, Express and MongoDB**
 
-⚡ Fun fact **The World's Biggest Functioning Guitar is 13 Meters Long...**
 
  </div>
  
