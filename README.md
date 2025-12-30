@@ -2,7 +2,7 @@
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Sahil+Lagwal!;" /> 
 </h1> 
-<h3 align="center">A passionate Software Developer from Himachal Pradesh, India</h3>
+<h3 align="center">Software Developer</h3>
 
  
 <div align="center"> 
@@ -18,6 +18,6 @@
 <h2 align="center">⚒️ My Toolbox ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,react,javascript,typescript,angular,nodejs,express,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=github,kotlin,html,css,vscode,firebase,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,typescript,nodejs,express,mongodb,postgres,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=git,html,css,vscode,firebase,c,cpp,kotlin" />
 </div>
